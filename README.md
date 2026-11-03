@@ -2,7 +2,9 @@
 
 I have decided to start this repo to publicly share my university notes and learn [typst](https://typst.app)
 
-shoutout to [dogeystamp](https://www.dogeystamp.com/typst-notes2/) for the inspiration 
+I study at ADA university as of writing this. `2026-11-03 15:44`
+
+shoutout to [dogeystamp](https://www.dogeystamp.com/typst-notes2/) for the inspiration regarding the typst theme.
 
 ## directory structure 
 

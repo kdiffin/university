@@ -226,34 +226,39 @@ $
 
 == 8.2 Analysis Model: isolated system (Energy)
 
-$
-  Delta K + Delta U = 0
-$
-
-$
-  K_i + U_i = K_f + U_f = E_"mech"
-$ <conservation-of-mechanical-energy>
+This is the formula for the ideal case, where friction does and air resistance do not exist. No heat is lost. The energy of the system stays constant.
 
 
-1. @conservation-of-mechanical-energy is NOT derived. it comes from years of observation. #footnote[I wonder which observations lead to it, and why is it rigorous then?] It is called the convervation of mechanical energy.
 
-2. If the system is isolated:
-- Only if the system is not interacting with the environment, therefore the forces should be present within the parts of the system. That is why it's equal to 0.
-3. Only conservative forces are acting on the object (forces that do not change based on the path taken)
 
-=== The Applied Formula:
+#definition[$ K_i + U_i = K_f + U_f = E_"mech" $] <conservation-of-mechanical-energy> #footnote[
+  Professor stated: @conservation-of-mechanical-energy is NOT derived. it comes from years of observation. I wonder which observations lead to it, and why is it rigorous then?
 
-$
-  m v^2/2+m g h=K+0
-$
+]
+
+This definition upholds if:
+
+1. If the system is isolated:
+- Only if the system is not interacting with the environment, therefore the forces should be exerted between the parts of the system.
+2. Only conservative forces are acting on the object (forces that do not change based on the path taken)
+
+
+3. The formula now, with the constraints given
 
 $
   1. Delta K + 0 + 0 = m g h
 $
 
+
+
 $
-  2. K - m v^2 / 2 = m g h
+  2. K_f - m v_f^2 / 2 = m g h
 $
+
+$
+  m v^2/2+m g h=K+0
+$
+
 
 TODO: I dont understand this?
 
