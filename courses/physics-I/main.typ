@@ -224,11 +224,9 @@ $
 
 
 
-== 8.2 Analysis Model: isolated system (Energy)
+== 8.2 Analysis Model: isolated system (Energy);
 
-This is the formula for the ideal case, where friction does and air resistance do not exist. No heat is lost. The energy of the system stays constant.
-
-
+This chapter explains when the "conservation of mechanical energy" upholds.
 
 
 #definition[$ K_i + U_i = K_f + U_f = E_"mech" $] <conservation-of-mechanical-energy> #footnote[
@@ -241,6 +239,7 @@ This definition upholds if:
 1. If the system is isolated:
 - Only if the system is not interacting with the environment, therefore the forces should be exerted between the parts of the system.
 2. Only conservative forces are acting on the object (forces that do not change based on the path taken)
+- So no friction air force etc.
 
 
 3. The formula now, with the constraints given
