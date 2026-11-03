@@ -22,8 +22,9 @@
   ],
 )
 
+#outline()
 
-= 7. Energy of a system
+= Energy of a system - 7
 
 #epigraph(attribution: [:(])[
   I apologize for the fact that these notes start after Midterm 1.
@@ -141,7 +142,14 @@ Important: when the system includes multiple interacting objects, internal and e
 5. Apply $W_"net" = Delta K$ and solve for the unknown.
 
 Always distinguish work done by one force from net work. Never substitute $W_"ext"$ for $W_"net"$ without checking what the notation means in the problem.
-== 7.6 Potential Energy of a System
+
+== TODO: Potential Energy of a System - 7.6
+
+TODO:
+
+== Conservative and Nonconservative Forces - 7.7
+== Relationship Between Conservative Forces and Potential Energy - 7.8
+== Energy Diagrams and Equilibrium of a System - 7.9
 
 == Useful Formulas
 
@@ -171,7 +179,7 @@ $ <vector-component-no-angle>
   I skipped the last 2 lessons. Sorry.
 ]
 
-== 8.1 Analysis Model: Nonisolated System (Energy)
+== Analysis Model: Nonisolated System (Energy) - 8.1
 
 
 === Definition of Potential Energy
@@ -247,7 +255,7 @@ $
   2. K - m v^2 / 2 = m g h
 $
 
-I dont understand this? //TODO:
+TODO: I dont understand this?
 
 
 

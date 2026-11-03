@@ -25,6 +25,7 @@
 // The first chapter is a demo of how Mousse looks like for taking
 // notes. A manual is available afterwards.
 
+
 = The Pond
 
 #epigraph(attribution: [Jonathan Bingus])[
